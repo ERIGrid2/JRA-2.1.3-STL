@@ -1,7 +1,7 @@
 # Co-simulation model of JRA1.1 multi-energy benchmark
 
 This version of the JRA1.1 multi-energy benchmark only requires a working installation of [Python](https://www.python.org/).
-The recommended version is **Python 3.6**.
+The recommended version is **Python 3.8**.
 
 Install all required Python packages with the following command:
 ```
