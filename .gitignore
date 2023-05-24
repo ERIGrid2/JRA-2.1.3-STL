@@ -1,0 +1,20 @@
+# Remove .idea
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Ignore cosimulation log
+*.log
+
+# Ignore results files
+*.h5
+
+# Ignore test results
+pandapipes_standalone/test/results.csv
+
+# Ignore results images.
+*.png
+!pandapipes_standalone/documentation/*.png # Except for pandapipes_standalone docu
+*.pdf

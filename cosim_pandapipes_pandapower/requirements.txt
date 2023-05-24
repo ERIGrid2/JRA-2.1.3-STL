@@ -1,0 +1,14 @@
+dataclasses==0.6
+-e git+https://gitlab.com/mosaik/mosaik.git@151-lift-restriction-of-only-one-weak-connection-per-cycle#egg=mosaik
+mosaik-api==3.0.3
+numba==0.53.1
+networkx==2.5.1
+numpy==1.19.5
+pandapipes==0.4.0
+pandapower==2.6.0
+pandas==1.1.5
+scipy==1.5.4
+simple-pid==1.0.1
+simpy==3.0.13
+simpy.io==0.2.3
+tables==3.6.1
